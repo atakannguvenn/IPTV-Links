@@ -12897,7 +12897,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuz.ru" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="Religious",Soyuz
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png" group-title="General",Sozcu TV
-https://gknnowtv.onrender.com/sozcu.m3u8
+http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon Arabic
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
