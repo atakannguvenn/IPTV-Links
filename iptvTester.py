@@ -5,9 +5,6 @@ import subprocess
 import time
 import platform
 import signal
-import platform
-import time
-import subprocess
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
