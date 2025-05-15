@@ -270,4 +270,4 @@ def test_single(url):
 
 if __name__ == "__main__":
     # main()
-    test_single("https://ciner-live.daioncdn.net/showtv/showtv.m3u8")
+    test_single("https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index_extreme.m3u8")
